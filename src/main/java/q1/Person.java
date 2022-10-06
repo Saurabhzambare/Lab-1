@@ -1,6 +1,12 @@
 package q1;
 import java.util.Objects;
 
+/**
+ * @author Saurabh Lalit Zambare
+ * Date: 05/10/2022
+ * This class contains atributes and methods for a Person object
+ */
+
 public class Person {
 
     //Enum

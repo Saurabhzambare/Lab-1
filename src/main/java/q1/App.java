@@ -1,5 +1,11 @@
 package q1;
 
+/**
+ * @author Saurabh Lalit Zambare
+ * Date: 05/10/2022
+ * This class creates person objects
+ */
+
 public class App {
     public void run() {
         try{

@@ -4,6 +4,11 @@ import q4.Car;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+/**
+ * @author Saurabh Lalit Zambare
+ * Date: 05/10/2022
+ */
+
 public class App {
     private final int NUMCARS = 100;
     private final Car[] unsoldCars = new Car[NUMCARS];

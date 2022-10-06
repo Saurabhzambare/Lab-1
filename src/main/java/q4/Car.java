@@ -2,6 +2,12 @@ package q4;
 import q1.Person;
 import java.util.Objects;
 
+/**
+ * @author Saurabh Lalit Zambare
+ * Date: 05/10/2022
+ * This class contains atributes and methods
+ */
+
 public class Car {
     //class variable
     private static int COUNT;
